@@ -1,4 +1,2 @@
 # aulabootstrapfox
 aulabootstrapfox
-
-asd
